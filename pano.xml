@@ -1,0 +1,1328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="19876" appversion="7.0" start="node30">
+  <panorama hideabout="1" id="node30">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="-7.17" pan="110.1" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="-17.40" description="" source="" customnodeid="" copyright="" title="IMG_20221212_153204_00_621.insp" nodeid="node30" datetime="12/12/2022 8:32 SA" latitude="21.041167" comment="" tags="ChuaTrinh" info="" heading="0" longitude="106.711667" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node_forward" url="{node29}" id="Point01" tilt="-16.05" description="" target="73.6/-5.3/100.0" title="" pan="73.77"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221212_155930_00_623.insp" pan="-13.4356" url="{node32}" tilt="0" distance="7824.88"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node29">
+    <input overlap="1" height="1520" width="1520" levelingpitch="2" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="-16.10" description="" source="" customnodeid="" copyright="" title="" nodeid="node29" datetime="12/12/2022 8:31 SA" latitude="21.041083" comment="" tags="ChuaTrinh" info="" heading="0" longitude="106.711667" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" url="{node28}" id="Point01" tilt="-19.46" description="" target="9.0/-9.8/100.0" title="IMG_20221212_153112_00_619.insp" pan="78.57"/>
+      <hotspot skinid="ht_node" url="{node30}" id="Point02" tilt="-14.41" description="" target="-152.4/-21.5/100.0" title="IMG_20221212_153204_00_621.insp" pan="277.52"/>
+      <hotspot skinid="ht_info" url="" id="Point03" tilt="-12.58" description="&lt;html lang=&quot;en&quot;>&#xa;&lt;meta charset=&quot;utf-8&quot;>&#xa;&lt;body>&#xa;   &lt;h1>Thập bát La Hán&lt;/h1>&#xa;   &lt;p>Nằm song song với chùa chính là hai dãy nhà tả vu, hữu vu thờ Thập bát La Hán. Mỗi dãy nhà có chín gian thông nhau, không có cửa, vì kèo cột bằng gỗ với hai hàng cột, mái lợp ngói mũi hài, hai hồi bít đốc. Mỗi vị La Hán được tạc theo một phong cách và thể hiện nội tâm khác nhau.&lt;/p>&#xa;   &lt;img src= &quot;pics/NhaTuVu_HuuVu_ThapBatLaHan.jpg&quot; style=&quot;width:100%;height:100%&quot;>&#xa;&lt;/body>&#xa;&#xa;&lt;/html>" target="" title="" pan="-193.73"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node28">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="-3.58" pan="8.1" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="-16.90" description="" source="" customnodeid="" copyright="" title="IMG_20221212_153112_00_619.insp" nodeid="node28" datetime="12/12/2022 8:31 SA" latitude="21.041000" comment="" tags="ChuaTrinh" info="" heading="0" longitude="106.711528" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_info" url="{node38}" id="Point01" tilt="-20.95" description="" target="$fwd" title="IMG_20221213_093245_00_637.insp" pan="-342.24"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221212_153304_00_622.insp" pan="-136.975" url="{node31}" tilt="0" distance="12.6244"/>
+      <hotspot skinid="ht_node_forward" target="-109.5/-3.8/100.0" id="Point03" description="" title="Đi tới" pan="-46.56" url="{node29}" tilt="-12.76" distance="17.1252"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node31">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="-15.00" description="" source="" customnodeid="" copyright="" title="IMG_20221212_153304_00_622.insp" nodeid="node31" datetime="12/12/2022 8:33 SA" latitude="21.040917" comment="" tags="ChuaTrinh" info="" heading="0" longitude="106.711611" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221212_153112_00_619.insp" pan="43.0248" url="{node28}" tilt="0" distance="12.6244"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node32">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="53.70" description="" source="" customnodeid="" copyright="" title="IMG_20221212_155930_00_623.insp" nodeid="node32" datetime="12/12/2022 8:59 SA" latitude="21.109611" comment="" tags="YenTu" info="" heading="0" longitude="106.729194" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221212_153204_00_621.insp" pan="166.558" url="{node30}" tilt="0" distance="7824.88"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221212_155942_00_624.insp" pan="24.2176" url="{node33}" tilt="0" distance="6.8278"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point03" description="" title="IMG_20221212_160140_00_626.insp" pan="-54.4495" url="{node35}" tilt="0" distance="10.7098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node33">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="64.20" description="" source="" customnodeid="" copyright="" title="IMG_20221212_155942_00_624.insp" nodeid="node33" datetime="12/12/2022 8:59 SA" latitude="21.109667" comment="" tags="YenTu" info="" heading="0" longitude="106.729167" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221212_155930_00_623.insp" pan="-155.782" url="{node32}" tilt="0" distance="6.8278"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221212_155951_00_625.insp" pan="0" url="{node34}" tilt="0" distance="3.00226"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node34">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="64.50" description="" source="" customnodeid="" copyright="" title="IMG_20221212_155951_00_625.insp" nodeid="node34" datetime="12/12/2022 8:59 SA" latitude="21.109694" comment="" tags="YenTu" info="" heading="0" longitude="106.729167" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221212_155942_00_624.insp" pan="180" url="{node33}" tilt="0" distance="3.00226"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node35">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="75.70" description="" source="" customnodeid="" copyright="" title="IMG_20221212_160140_00_626.insp" nodeid="node35" datetime="12/12/2022 9:01 SA" latitude="21.109667" comment="" tags="YenTu" info="" heading="0" longitude="106.729278" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221212_155930_00_623.insp" pan="125.55" url="{node32}" tilt="0" distance="10.7098"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221212_160153_00_627.insp" pan="0" url="{node36}" tilt="0" distance="6.11572"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node36">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="69.20" description="" source="" customnodeid="" copyright="" title="IMG_20221212_160153_00_627.insp" nodeid="node36" datetime="12/12/2022 9:01 SA" latitude="21.109722" comment="" tags="YenTu" info="" heading="0" longitude="106.729278" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221212_160140_00_626.insp" pan="180" url="{node35}" tilt="0" distance="6.11572"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_093245_00_637.insp" pan="14.8821" url="{node38}" tilt="0" distance="4710.94"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node37">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="485.20" description="" source="" customnodeid="" copyright="" title="IMG_20221213_093228_00_636.insp" nodeid="node37" datetime="13/12/2022 2:32 SA" latitude="21.150694" comment="" tags="YenTu" info="" heading="0" longitude="106.717667" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_093245_00_637.insp" pan="117.338" url="{node38}" tilt="0" distance="6.53758"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_094556_00_642.insp" pan="0" url="{node42}" tilt="0" distance="9.34037"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node38">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="486.00" description="" source="" customnodeid="" copyright="" title="IMG_20221213_093245_00_637.insp" nodeid="node38" datetime="13/12/2022 2:32 SA" latitude="21.150667" comment="" tags="YenTu" info="" heading="0" longitude="106.717611" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221212_160153_00_627.insp" pan="-165.114" url="{node36}" tilt="0" distance="4710.94"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_093228_00_636.insp" pan="-62.6624" url="{node37}" tilt="0" distance="6.53758"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node39">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="487.30" description="" source="" customnodeid="" copyright="" title="IMG_20221213_093306_00_638.insp" nodeid="node39" datetime="13/12/2022 2:33 SA" latitude="21.150750" comment="" tags="YenTu" info="" heading="0" longitude="106.717750" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_094556_00_642.insp" pan="70.1141" url="{node42}" tilt="0" distance="9.15324"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node40">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="472.20" description="" source="" customnodeid="" copyright="" title="IMG_20221213_093501_00_639.insp" nodeid="node40" datetime="13/12/2022 2:35 SA" latitude="21.150833" comment="" tags="YenTu" info="" heading="0" longitude="106.717639" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_094556_00_642.insp" pan="-154.602" url="{node42}" tilt="0" distance="6.77005"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_093518_00_640.insp" pan="0" url="{node41}" tilt="0" distance="3.11346"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node41">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="490.20" description="" source="" customnodeid="" copyright="" title="IMG_20221213_093518_00_640.insp" nodeid="node41" datetime="13/12/2022 2:35 SA" latitude="21.150861" comment="" tags="YenTu" info="" heading="0" longitude="106.717639" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_093501_00_639.insp" pan="180" url="{node40}" tilt="0" distance="3.11346"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_094656_00_643.insp" pan="13.2386" url="{node43}" tilt="0" distance="12.6796"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node42">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="490.50" description="" source="" customnodeid="" copyright="" title="IMG_20221213_094556_00_642.insp" nodeid="node42" datetime="13/12/2022 2:45 SA" latitude="21.150778" comment="" tags="YenTu" info="" heading="0" longitude="106.717667" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_093228_00_636.insp" pan="180" url="{node37}" tilt="0" distance="9.34037"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_093501_00_639.insp" pan="25.3982" url="{node40}" tilt="0" distance="6.77005"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point03" description="" title="IMG_20221213_093306_00_638.insp" pan="-109.886" url="{node39}" tilt="0" distance="9.15324"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node43">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="491.70" description="" source="" customnodeid="" copyright="" title="IMG_20221213_094656_00_643.insp" nodeid="node43" datetime="13/12/2022 2:46 SA" latitude="21.150972" comment="" tags="YenTu" info="" heading="0" longitude="106.717611" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_093518_00_640.insp" pan="-166.761" url="{node41}" tilt="0" distance="12.6796"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_094944_00_644.insp" pan="8.88734" url="{node44}" tilt="0" distance="18.7952"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node44">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="501.70" description="" source="" customnodeid="" copyright="" title="IMG_20221213_094944_00_644.insp" nodeid="node44" datetime="13/12/2022 2:49 SA" latitude="21.151139" comment="" tags="YenTu" info="" heading="0" longitude="106.717583" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_094656_00_643.insp" pan="-171.113" url="{node43}" tilt="0" distance="18.7952"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_095101_00_645.insp" pan="12.7816" url="{node45}" tilt="0" distance="12.6563"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node45">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="500.80" description="" source="" customnodeid="" copyright="" title="IMG_20221213_095101_00_645.insp" nodeid="node45" datetime="13/12/2022 2:51 SA" latitude="21.151250" comment="" tags="YenTu" info="" heading="0" longitude="106.717556" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_094944_00_644.insp" pan="-167.218" url="{node44}" tilt="0" distance="12.6563"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_123707_00_660.insp" pan="17.3665" url="{node60}" tilt="0" distance="19.4565"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node46">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="505.70" description="" source="" customnodeid="" copyright="" title="IMG_20221213_095302_00_646.insp" nodeid="node46" datetime="13/12/2022 2:53 SA" latitude="21.151528" comment="" tags="YenTu" info="" heading="0" longitude="106.717694" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_123816_00_663.insp" pan="180" url="{node63}" tilt="0" distance="3.11346"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_123837_00_664.insp" pan="24.6" url="{node64}" tilt="0" distance="6.72622"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node47">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="521.50" description="" source="" customnodeid="" copyright="" title="IMG_20221213_100456_00_647.insp" nodeid="node47" datetime="13/12/2022 3:04 SA" latitude="21.151444" comment="" tags="YenTu" info="" heading="0" longitude="106.717528" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_123707_00_660.insp" pan="135.956" url="{node60}" tilt="0" distance="4.17673"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_124051_00_668.insp" pan="43.0035" url="{node68}" tilt="0" distance="4.25736"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point03" description="" title="IMG_20221213_123757_00_662.insp" pan="-90" url="{node62}" tilt="0" distance="5.7037"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node48">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="518.40" description="" source="" customnodeid="" copyright="" title="IMG_20221213_100516_00_648.insp" nodeid="node48" datetime="13/12/2022 3:05 SA" latitude="21.151444" comment="" tags="YenTu" info="" heading="0" longitude="106.717417" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_124104_00_669.insp" pan="-61.3714" url="{node69}" tilt="0" distance="6.49814"/>
+      <hotspot skinid="ht_node" url="{node49}" id="Point02" tilt="0" description="" target="$fwd" title="IMG_20221213_100516_00_648.insp" pan="90"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point03" description="" title="IMG_20221213_123729_00_661.insp" pan="135.956" url="{node61}" tilt="0" distance="4.17673"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node49">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="518.40" description="" source="" customnodeid="" copyright="" title="IMG_20221213_100516_00_648.insp" nodeid="node49" datetime="13/12/2022 3:05 SA" latitude="21.151444" comment="" tags="YenTu" info="" heading="0" longitude="106.717417" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" url="{node48}" id="Point01" tilt="0" description="" target="$fwd" title="IMG_20221213_100516_00_648.insp" pan="90"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node50">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="505.90" description="" source="" customnodeid="" copyright="" title="IMG_20221213_101307_00_649.insp" nodeid="node50" datetime="13/12/2022 3:13 SA" latitude="21.152694" comment="" tags="YenTu" info="" heading="0" longitude="106.719667" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_123837_00_664.insp" pan="120.779" url="{node64}" tilt="0" distance="241.41"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_104847_00_652.insp" pan="32.0223" url="{node52}" tilt="0" distance="608.411"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node51">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node51/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="898.00" description="" source="" customnodeid="" copyright="" title="IMG_20221213_104831_00_651.insp" nodeid="node51" datetime="13/12/2022 3:48 SA" latitude="21.157417" comment="" tags="YenTu" info="" heading="0" longitude="106.716583" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_104847_00_652.insp" pan="163.313" url="{node52}" tilt="0" distance="9.751"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_104914_00_653.insp" pan="-62.0178" url="{node53}" tilt="0" distance="13.0345"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node52">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node52/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="899.80" description="" source="" customnodeid="" copyright="" title="IMG_20221213_104847_00_652.insp" nodeid="node52" datetime="13/12/2022 3:48 SA" latitude="21.157333" comment="" tags="YenTu" info="" heading="0" longitude="106.716556" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_101307_00_649.insp" pan="-147.977" url="{node50}" tilt="0" distance="608.411"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_104831_00_651.insp" pan="-16.6867" url="{node51}" tilt="0" distance="9.751"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node53">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node53/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="899.20" description="" source="" customnodeid="" copyright="" title="IMG_20221213_104914_00_653.insp" nodeid="node53" datetime="13/12/2022 3:49 SA" latitude="21.157472" comment="" tags="YenTu" info="" heading="0" longitude="106.716694" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_104831_00_651.insp" pan="117.982" url="{node51}" tilt="0" distance="13.0345"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_110005_00_654.insp" pan="12.9487" url="{node54}" tilt="0" distance="231.387"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node54">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node54/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="938.50" description="" source="" customnodeid="" copyright="" title="IMG_20221213_110005_00_654.insp" nodeid="node54" datetime="13/12/2022 4:00 SA" latitude="21.159500" comment="" tags="YenTu" info="" heading="0" longitude="106.716194" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_104914_00_653.insp" pan="-167.051" url="{node53}" tilt="0" distance="231.387"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_110551_00_655.insp" pan="36.1742" url="{node55}" tilt="0" distance="53.5845"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node55">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node55/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="950.10" description="" source="" customnodeid="" copyright="" title="IMG_20221213_110551_00_655.insp" nodeid="node55" datetime="13/12/2022 4:05 SA" latitude="21.159889" comment="" tags="YenTu" info="" heading="0" longitude="106.715889" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_110005_00_654.insp" pan="-143.826" url="{node54}" tilt="0" distance="53.5845"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_113428_00_659.insp" pan="47.0415" url="{node59}" tilt="0" distance="149.627"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node56">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node56/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="1037.10" description="" source="" customnodeid="" copyright="" title="IMG_20221213_113305_00_656.insp" nodeid="node56" datetime="13/12/2022 4:33 SA" latitude="21.160833" comment="" tags="YenTu" info="" heading="0" longitude="106.714806" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_113428_00_659.insp" pan="-136.998" url="{node59}" tilt="0" distance="4.10519"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_113343_00_657.insp" pan="24.9989" url="{node57}" tilt="0" distance="6.87058"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node57">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node57/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="1032.10" description="" source="" customnodeid="" copyright="" title="IMG_20221213_113343_00_657.insp" nodeid="node57" datetime="13/12/2022 4:33 SA" latitude="21.160889" comment="" tags="YenTu" info="" heading="0" longitude="106.714778" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_113305_00_656.insp" pan="-155.001" url="{node56}" tilt="0" distance="6.87058"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_113355_00_658.insp" pan="0" url="{node58}" tilt="0" distance="3.11346"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node58">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node58/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="1031.80" description="" source="" customnodeid="" copyright="" title="IMG_20221213_113355_00_658.insp" nodeid="node58" datetime="13/12/2022 4:33 SA" latitude="21.160917" comment="" tags="YenTu" info="" heading="0" longitude="106.714778" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_113343_00_657.insp" pan="180" url="{node57}" tilt="0" distance="3.11346"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node59">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node59/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="1034.70" description="" source="" customnodeid="" copyright="" title="IMG_20221213_113428_00_659.insp" nodeid="node59" datetime="13/12/2022 4:34 SA" latitude="21.160806" comment="" tags="YenTu" info="" heading="0" longitude="106.714833" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_110551_00_655.insp" pan="-132.958" url="{node55}" tilt="0" distance="149.627"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_113305_00_656.insp" pan="43.0017" url="{node56}" tilt="0" distance="4.10519"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node60">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node60/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="506.30" description="" source="" customnodeid="" copyright="" title="IMG_20221213_123707_00_660.insp" nodeid="node60" datetime="13/12/2022 5:37 SA" latitude="21.151417" comment="" tags="YenTu" info="" heading="0" longitude="106.717500" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_095101_00_645.insp" pan="-162.634" url="{node45}" tilt="0" distance="19.4565"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_100456_00_647.insp" pan="-44.0439" url="{node47}" tilt="0" distance="4.17673"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node61">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node61/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="511.70" description="" source="" customnodeid="" copyright="" title="IMG_20221213_123729_00_661.insp" nodeid="node61" datetime="13/12/2022 5:37 SA" latitude="21.151417" comment="" tags="YenTu" info="" heading="0" longitude="106.717389" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_100516_00_648.insp" pan="-44.0439" url="{node48}" tilt="0" distance="4.17673"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node62">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node62/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="511.20" description="" source="" customnodeid="" copyright="" title="IMG_20221213_123757_00_662.insp" nodeid="node62" datetime="13/12/2022 5:37 SA" latitude="21.151444" comment="" tags="YenTu" info="" heading="0" longitude="106.717583" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_100456_00_647.insp" pan="90" url="{node47}" tilt="0" distance="5.7037"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_123816_00_663.insp" pan="-61.5889" url="{node63}" tilt="0" distance="13.0874"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node63">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node63/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="507.90" description="" source="" customnodeid="" copyright="" title="IMG_20221213_123816_00_663.insp" nodeid="node63" datetime="13/12/2022 5:38 SA" latitude="21.151500" comment="" tags="YenTu" info="" heading="0" longitude="106.717694" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_123757_00_662.insp" pan="118.411" url="{node62}" tilt="0" distance="13.0874"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_095302_00_646.insp" pan="0" url="{node46}" tilt="0" distance="3.11346"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node64">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node64/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="506.90" description="" source="" customnodeid="" copyright="" title="IMG_20221213_123837_00_664.insp" nodeid="node64" datetime="13/12/2022 5:38 SA" latitude="21.151583" comment="" tags="YenTu" info="" heading="0" longitude="106.717667" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_095302_00_646.insp" pan="-155.4" url="{node46}" tilt="0" distance="6.72622"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_101307_00_649.insp" pan="-59.2203" url="{node50}" tilt="0" distance="241.41"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node65">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node65/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="513.50" description="" source="" customnodeid="" copyright="" title="IMG_20221213_124007_00_665.insp" nodeid="node65" datetime="13/12/2022 5:40 SA" latitude="21.151500" comment="" tags="YenTu" info="" heading="0" longitude="106.717556" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_124020_00_666.insp" pan="90" url="{node66}" tilt="0" distance="2.9037"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node66">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node66/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="510.50" description="" source="" customnodeid="" copyright="" title="IMG_20221213_124020_00_666.insp" nodeid="node66" datetime="13/12/2022 5:40 SA" latitude="21.151500" comment="" tags="YenTu" info="" heading="0" longitude="106.717528" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_124051_00_668.insp" pan="136.996" url="{node68}" tilt="0" distance="4.25736"/>
+      <hotspot skinid="ht_node" url="{node67}" id="Point02" tilt="0" description="" target="$fwd" title="IMG_20221213_124032_00_667.insp" pan="0"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point03" description="" title="IMG_20221213_124007_00_665.insp" pan="-90" url="{node65}" tilt="0" distance="2.9037"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point04" description="" title="IMG_20221213_124358_00_673.insp" pan="10.64" url="{node73}" tilt="0" distance="15.7265"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node67">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node67/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="511.20" description="" source="" customnodeid="" copyright="" title="IMG_20221213_124032_00_667.insp" nodeid="node67" datetime="13/12/2022 5:40 SA" latitude="21.151500" comment="" tags="YenTu" info="" heading="0" longitude="106.717528" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" url="{node66}" id="Point01" tilt="0" description="" target="$fwd" title="IMG_20221213_124020_00_666.insp" pan="0"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node68">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node68/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="512.20" description="" source="" customnodeid="" copyright="" title="IMG_20221213_124051_00_668.insp" nodeid="node68" datetime="13/12/2022 5:40 SA" latitude="21.151472" comment="" tags="YenTu" info="" heading="0" longitude="106.717500" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_100456_00_647.insp" pan="-136.996" url="{node47}" tilt="0" distance="4.25736"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_124104_00_669.insp" pan="90" url="{node69}" tilt="0" distance="2.9037"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point03" description="" title="IMG_20221213_124020_00_666.insp" pan="-43.0035" url="{node66}" tilt="0" distance="4.25736"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node69">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node69/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="510.80" description="" source="" customnodeid="" copyright="" title="IMG_20221213_124104_00_669.insp" nodeid="node69" datetime="13/12/2022 5:41 SA" latitude="21.151472" comment="" tags="YenTu" info="" heading="0" longitude="106.717472" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_124051_00_668.insp" pan="-90" url="{node68}" tilt="0" distance="2.9037"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point02" description="" title="IMG_20221213_100516_00_648.insp" pan="118.629" url="{node48}" tilt="0" distance="6.49814"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node70">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node70/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="497.70" description="" source="" customnodeid="" copyright="" title="IMG_20221213_124316_00_670.insp" nodeid="node70" datetime="13/12/2022 5:43 SA" latitude="21.151694" comment="" tags="YenTu" info="" heading="0" longitude="106.717472" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_124329_00_671.insp" pan="180" url="{node71}" tilt="0" distance="6.11572"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node71">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node71/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="511.00" description="" source="" customnodeid="" copyright="" title="IMG_20221213_124329_00_671.insp" nodeid="node71" datetime="13/12/2022 5:43 SA" latitude="21.151639" comment="" tags="YenTu" info="" heading="0" longitude="106.717472" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_124358_00_673.insp" pan="-90" url="{node73}" tilt="0" distance="2.9037"/>
+      <hotspot skinid="ht_node" url="{node72}" id="Point02" tilt="0" description="" target="$fwd" title="IMG_20221213_124341_00_672.insp" pan="0"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point03" description="" title="IMG_20221213_124316_00_670.insp" pan="0" url="{node70}" tilt="0" distance="6.11572"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node72">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node72/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="505.60" description="" source="" customnodeid="" copyright="" title="IMG_20221213_124341_00_672.insp" nodeid="node72" datetime="13/12/2022 5:43 SA" latitude="21.151639" comment="" tags="YenTu" info="" heading="0" longitude="106.717472" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" url="{node71}" id="Point01" tilt="0" description="" target="$fwd" title="IMG_20221213_124329_00_671.insp" pan="0"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node73">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node73/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="506.30" description="" source="" customnodeid="" copyright="" title="IMG_20221213_124358_00_673.insp" nodeid="node73" datetime="13/12/2022 5:43 SA" latitude="21.151639" comment="" tags="YenTu" info="" heading="0" longitude="106.717500" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point01" description="" title="IMG_20221213_124020_00_666.insp" pan="-169.36" url="{node66}" tilt="0" distance="15.7265"/>
+      <hotspot skinid="ht_node" url="{node74}" id="Point02" tilt="0" description="" target="$fwd" title="IMG_20221213_124411_00_674.insp" pan="180"/>
+      <hotspot skinid="ht_node" target="$fwd" id="Point03" description="" title="IMG_20221213_124329_00_671.insp" pan="90" url="{node71}" tilt="0" distance="2.9037"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node74">
+    <input overlap="1" height="1520" width="1520" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node74/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1520" preload="0" predecode="0" height="1520"/>
+      <level width="760" preload="0" predecode="0" height="760"/>
+      <level width="380" preload="1" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360"/>
+    </view>
+    <userdata altitude="506.80" description="" source="" customnodeid="" copyright="" title="IMG_20221213_124411_00_674.insp" nodeid="node74" datetime="13/12/2022 5:44 SA" latitude="21.151639" comment="" tags="YenTu" info="" heading="0" longitude="106.717500" author=""/>
+    <hotspots width="180" height="20" smoothmovement="1" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" enabled="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" url="" id="Point01" tilt="-89.75" description="" target="_blank" title="" pan="-243.43"/>
+      <hotspot skinid="ht_node" url="{node73}" id="Point01" tilt="0" description="" target="$fwd" title="IMG_20221213_124358_00_673.insp" pan="180"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" zoomin="0" zoomout="0" softedge="0" zoomafterinfov="140" zoomfov="40" enabled="1" type="crossdissolve" delay="none" zoomspeed="2"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="1" lockedwheel="0" speedwheel="1" rubberband="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" contextvr="1" contextprojections="0">
+      <menulink url="https://tuoitre.vn/" text="Tuổi trẻ"/>
+    </control>
+  </panorama>
+  <masternode>
+    <userdata comment="" description="" tags="" copyright="" title="Thiền Viện Trúc Lâm Yên Tử" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map mapmaxzoom="18" id="Map01" index="0" googlecustomstylecode="" title="" mapstyle="streets" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" type="web" mapprovider="openstreetmap"/>
+  <map mapmaxzoom="18" id="Map02" index="1" googlecustomstylecode="" title="" mapstyle="streets" mapurltemplate="http://mt0.google.com/vt/lyrs=s&amp;hl=vi&amp;x={x}&amp;y={y}&amp;z={z}" type="web" mapprovider="custom"/>
+  <map mapmaxzoom="18" id="Map03" index="2" googlecustomstylecode="" title="" mapstyle="streets" mapurltemplate="https://{s}.dothanhlong.org/basemap/hanhchinh/zxy/t6/VBD/{z}/{x}/{y}.png" type="web" mapprovider="custom"/>
+</tour>
